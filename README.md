@@ -257,12 +257,22 @@ Comparing model predictions with actual observations provides insight into the s
 
 ## 13. Project Information
 
-Course: PH1050
+**Course:** PH1050  
+**Project:** Earth's Climate - Physics and Data-Driven Modelling  
+**Institution:** IIT Madras  
+**Project Type:** Academic Group Project
 
-Project: Earth's Climate - Physics and Data-Driven Modelling
+### Team Members and Division of Tasks
 
-Institution: IIT Madras
+| S. No. | Team Member | Assigned Task |
+|---|---|---|
+| 1 | Anusha | Collection of actual data for the data-driven model. |
+| 2 | Anish | Finding equilibrium using the Bisection Method and simulating the ODE using Euler and RK4 methods. |
+| 3 | Sashank | Demonstrating that results are independent of C through graphs, performing convergence study using Error vs. Step Size graphs, and implementing CO2 forcing. |
+| 4 | Trishika and Anusha | Comparing simulated warming with real temperature anomaly data, accounting for the scaling factor (f), and plotting residuals in the simulation vs. actual comparison graph. |
+| 5 | Santhosh and Sruthi | Developing and implementing the data-driven model, including regression analysis and model evaluation. |
+| 6 | Ishanth | Compilation of the project, README documentation, and GitHub repository preparation. |
 
-Team Members: Add the names of all team members here.
+### Team Contribution
 
-Academic Project.
+All team members contribute to the successful completion of the project through their assigned responsibilities, collaboration, analysis, and integration of results.
