@@ -92,9 +92,9 @@ E_cum(t) = sum of annual emissions from the starting year through year t.
 
 The available historical observations are divided into separate periods:
 
-- Training: 1880–1965
-- Validation: 1966–1980
-- Testing: 1981–2024
+- Training: 1880–1980
+- Validation: 1980–1985
+- Testing: 1985–2025
 
 The training data are used to fit the regression models.
 
